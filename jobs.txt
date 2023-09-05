@@ -1,0 +1,6 @@
+FKIB1|FakeBook|SDE|5|PYTHON#|Bengalore|12.5lpa|20|
+GBPB1|GoBus|SPE|2|JAVA#|Bengalore|7.5lpa|10|
+NKNY1|Nikz|SDE|4|JAVA#PYTHON#|NYC|14.5lpa|3|
+FKIH1|Fakebook|Intern|0|C++#JAVA#|Hyderabad|30kpm|5|
+FKSB2|Fakebook|SDE|4|C++#JAVA#|Bengaluru|15lpa|3|
+FKSD1|Fakebook|SDE|3|C++#PYTHON#|Bengaluru|15lpa|5|

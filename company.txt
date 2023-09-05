@@ -1,0 +1,7 @@
+company1|123456|Patna|email|
+Fakebook|abc1234|Bandra|abc@fake.com|
+Instantgram|insta1234|Boston|insta@ins.in|
+GoBus|pop1234|Bangalore|reddyanna@pop.com|
+Nikz|nik1234|NYC|nikz@gmail.com|
+Instagram|INsta1234|NYC|email@gmail.com|
+abc|abcabc|xyzxyz|abc@xyz.com
